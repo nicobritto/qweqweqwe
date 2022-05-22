@@ -1,0 +1,5 @@
+generamos la configuracion del archivo properties para la config con la base de datos y demas cosas
+generar la carpeta model que es donde va estar todos los modelos pelicula con sus getter y setter y cosntructores y la relacion con o entre tablas
+generar los repositorios peliuculaRepositorio y demas modelos que va ser  una interface extends de Jparepositori<genero,int>
+generar carpeta service que va contener los metodos de guardar eliminar listar(es una interfase) y algunos q se quieran crear
+generar otra clase en service que va ser la implementacion(implements StorageService)de la interface guardar eliminar listar
